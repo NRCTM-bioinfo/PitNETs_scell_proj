@@ -40,6 +40,7 @@ library(enrichR)
 
 
 
+
 color.group <- c(G1 = "#20854E", G2 = "#0027B5", G3 = "#7876B1",
                  G4 = "#E18727", G5 = "#BC3C29", G6 = "#6F99AD")
 
